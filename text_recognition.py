@@ -11,7 +11,7 @@ import resolution as rs
 
 
 #img = mpimg.imread('assets/testR_02.png')
-img = cv2.imread('assets/pytest1.jpg')
+img = cv2.imread('assets/text13.png')
 print(img.shape)
 #img = rs.upscale_image(img)
 img = utils.rescaled(img)
